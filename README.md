@@ -18,6 +18,6 @@ Join our discord server to join the study group :
 
 This study group was organized by Kevin Slote and Lawan Wijayasooriya at Georgia State University.
 
-[Kevin Slote](https://kslote1.github.io/)
+[Kevin Slote **:godmode:**](https://kslote1.github.io/)
 
 [Kevin Slote Teaching Page](https://sites.google.com/view/kevin-slote)
