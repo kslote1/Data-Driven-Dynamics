@@ -20,4 +20,4 @@ This study group was organized by Kevin Slote and Lawan Wijayasooriya at Georgia
 
 [Kevin Slote **:godmode:**](https://kslote1.github.io/)
 
-[Kevin Slote Teaching Page](https://sites.google.com/view/kevin-slote)
+[Kevin Slote Teaching Page ::link::](https://sites.google.com/view/kevin-slote)
