@@ -1,11 +1,11 @@
 # Contributing Guidelines
 
-*Pull requests, bug reports, and all other forms of contribution are welcomed and highly encouraged!* :octocat:
+*Session implementations, bug reports, and all other forms of contribution are welcomed and highly encouraged!* :octocat:
 
 ### Contents
 
-- [Code of Conduct](#book-code-of-conduct)
-- [Asking Questions](#bulb-asking-questions)
+- [Creating a GitHub account](#creating-an-account)
+- [How to Create A Colab Notebook](#create-colab)
 - [Opening an Issue](#inbox_tray-opening-an-issue)
 - [Feature Requests](#love_letter-feature-requests)
 - [Triaging Issues](#mag-triaging-issues)
@@ -16,11 +16,11 @@
 - [Certificate of Origin](#medal_sports-certificate-of-origin)
 - [Credits](#pray-credits)
 
-> **This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.**
+> **This guide serves to set clear expectations for everyone involved with the study group so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and students.**
 
 ## :book: Code of Conduct
 
-Please review our [Code of Conduct](https://github.com/jessesquires/.github/blob/main/CODE_OF_CONDUCT.md). It is in effect at all times. We expect it to be honored by everyone who contributes to this project. Acting like an asshole will not be tolerated.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Gn3w1UvTx0A)
 
 ## :bulb: Asking Questions
 
