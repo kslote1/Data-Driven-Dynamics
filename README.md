@@ -17,8 +17,9 @@ This code can be copy pasted into colab, but if you are contributing a session m
 
 Here is a link to the book.
 
--[Book](https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1009098489/ref=pd_lpo_sccl_1/139-6673464-6983407)
--[Online Resources](https://www.databookuw.com/)
+- [Book](https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1009098489/ref=pd_lpo_sccl_1/139-6673464-6983407)
+
+- [Online Resources](https://www.databookuw.com/)
 
 ## Contribution Guide
 
