@@ -28,9 +28,14 @@ deleting anything because I can just resotre it no problem.
 
 ## :pray: Credits
 
-Written by [Kevin Slote](https://github.com/kslote1). 
-
 **Contributors.**
+
+Written by [Kevin Slote](https://github.com/kslote1).
+[Kevin Slote **:godmode:**](https://kslote1.github.io/)
+[Kevin Slote Teaching Page :link:](https://sites.google.com/view/kevin-slote)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40kslote1)](https://twitter.com/kslote1)
+
+**Additional Contributors.**
 
 *Many of the ideas and prose for the statements in this document were based on or inspired by work from the following communities:*
 
