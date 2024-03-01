@@ -6,7 +6,7 @@
 
 - [Creating a GitHub account](#creating-an-account)
 - [How to Create A Colab Notebook](#create-colab)
-- [Opening an Issue](#inbox_tray-opening-an-issue)
+- [Check Notebook Into Repo](#inbox_tray-opening-an-issue)
 - [Feature Requests](#love_letter-feature-requests)
 - [Triaging Issues](#mag-triaging-issues)
 - [Submitting Pull Requests](#repeat-submitting-pull-requests)
@@ -18,17 +18,20 @@
 
 > **This guide serves to set clear expectations for everyone involved with the study group so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and students.**
 
-## :book: Code of Conduct
+## :book: Creating a GitHub Account
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Gn3w1UvTx0A/0.jpg)](https://www.youtube.com/watch?v=Gn3w1UvTx0A)
+[![Video Tutorial](https://img.youtube.com/vi/Gn3w1UvTx0A/0.jpg)](https://www.youtube.com/watch?v=Gn3w1UvTx0A)
 
-## :bulb: Asking Questions
+## :bulb: Creating A Colab Notebook
 
-See our [Support Guide](https://github.com/jessesquires/.github/blob/main/SUPPORT.md). In short, GitHub issues are not the appropriate place to debug your specific project, but should be reserved for filing bugs and feature requests.
+See our 
+[![Video Tutorial](https://img.youtube.com/vi/gfK2LpkUKac/0.jpg)](https://www.youtube.com/watch?v=gfK2LpkUKac). 
+In short, GitHub issues are not the appropriate place to debug your specific project, but should be reserved for filing bugs and feature requests.
 
-## :inbox_tray: Opening an Issue
-
-Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
+## :inbox_tray: Check Notebook Into Repo
+ 
+[![Video Tutorial](https://img.youtube.com/vi/FGNDZu0fCWQ/0.jpg)](https://www.youtube.com/watch?v=FGNDZu0fCWQ). 
+In short, GitHub issues are not the appropriate place to debug your specific project, but should be reserved for filing bugs and feature requests.
 
 ### :lock: Reporting Security Issues
 
