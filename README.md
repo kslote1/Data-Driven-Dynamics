@@ -13,6 +13,11 @@ This code can be copy pasted into colab, but if you are contributing a session m
 
 - [Python Code for the book](https://github.com/dynamicslab/databook_python/)
 
+Here is a link to the book.
+
+-[Book](https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1009098489/ref=pd_lpo_sccl_1/139-6673464-6983407)
+-[Online Resources](https://www.databookuw.com/)
+
 ## Contribution Guide
 
 For seminar attendings who wish to contribute a notebook to our study group, here is a guide to create a GitHub account and creating and adding a colab notebook to this website.
