@@ -4,6 +4,8 @@ This repository is part of a structured study group around Data-Driven Science a
 To study along, click on the "open in colab" button to run the notebook for each section. The repo is laid out by chapter each chapter directory has runnable code for each of the main ideas.
 Also, join our discord server for study tips and meeting times.
 
+This student led seminar is organized through the Georgia State University [SIAM](https://www.siam.org/) chapter.
+
 ## Materials and Lectures
 
 - [lectures](https://www.databookuw.com/)
@@ -44,8 +46,10 @@ Join our discord server to join the study group :
 
 This study group was organized by Kevin Slote and Lawan Wijayasooriya at Georgia State University.
 
-[Kevin Slote **:godmode:**](https://kslote1.github.io/)
+* [Kevin Slote **:godmode:**](https://kslote1.github.io/)
 
-[Kevin Slote Teaching Page :link:](https://sites.google.com/view/kevin-slote)
+* [Kevin Slote Teaching Page :link:](https://sites.google.com/view/kevin-slote)
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40kslote1)](https://twitter.com/kslote1)
+* [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40kslote1)](https://twitter.com/kslote1)
+
+* [Lawan Wijayasooriya](https://github.com/LawanWijaya)
