@@ -5,9 +5,20 @@ To study along, click on the "open in colab" button to run the notebook for each
 Also, join our discord server for study tips and meeting times.
 
 ## Materials and Lectures
+
 [lectures](https://www.databookuw.com/)
 
+Here is a link with already written python code for every sections. 
+This code can be copy pasted into colab, but if you are contributing a session make sure you understand what the code is doing and be able to explain the mathematics.
 
+[Python Code for the book](https://github.com/dynamicslab/databook_python/)
+
+## Contribution Guide
+
+For seminar attendings who wish to contribute a notebook to our study group, here is a guide to create a GitHub account and creating and adding a colab notebook to this website.
+
+- [Contribution Guide](https://github.com/kslote1/Data-Driven-Dynamics/blob/master/CONTRIBUTING.md)
+  
 ## Discord Server
 
 Join our discord server to join the study group :
