@@ -20,7 +20,7 @@
 
 ## :book: Code of Conduct
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Gn3w1UvTx0A)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Gn3w1UvTx0A/0.jpg)](https://www.youtube.com/watch?v=Gn3w1UvTx0A)
 
 ## :bulb: Asking Questions
 
