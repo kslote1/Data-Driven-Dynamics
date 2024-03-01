@@ -18,13 +18,14 @@
 ## :bulb: Creating A Colab Notebook
 
 [![Video Tutorial](https://img.youtube.com/vi/gfK2LpkUKac/0.jpg)](https://www.youtube.com/watch?v=gfK2LpkUKac). 
+
 This YouTube Video explains how to create a colab notebook.
 
 ## :inbox_tray: Check Notebook Into Repo
  
 [![Video Tutorial](https://img.youtube.com/vi/FGNDZu0fCWQ/0.jpg)](https://www.youtube.com/watch?v=FGNDZu0fCWQ). 
-Once you have access to GitHub I will grant you permissions to push to this repository. GitHub is designed to have every change stored in the history, so you don't have to worry about accidentally 
-deleting anything because I can just resotre it no problem.
+
+Once you have access to GitHub I will grant you permissions to push to this repository. GitHub is designed to have every change stored in the history, so you don't have to worry about accidentally deleting anything because I can just resotre it no problem.
 
 ## :pray: Credits
 
