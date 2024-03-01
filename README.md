@@ -18,12 +18,22 @@ This code can be copy pasted into colab, but if you are contributing a session m
 For seminar attendings who wish to contribute a notebook to our study group, here is a guide to create a GitHub account and creating and adding a colab notebook to this website.
 
 - [Contribution Guide](https://github.com/kslote1/Data-Driven-Dynamics/blob/master/CONTRIBUTING.md)
+
+## Links
+
+- [SIAM Chapter Feedback](https://sites.google.com/view/siamstudentchaptergsu/home)
+- [GSU Siam Instagram](https://www.instagram.com/siam.gsu/)
+
+## Recorded Sessions
+
+- [Session One](https://gsumeetings.webex.com/gsumeetings/ldr.php?RCID=029d427856b276d5e8eb96fc9ef049a6)
   
 ## Discord Server
 
 Join our discord server to join the study group :
 
 [![](https://dcbadge.vercel.app/api/server/ENh9rx4ARs)](https://discord.gg/ENh9rx4ARs)
+
 
 ### Organizers
 
