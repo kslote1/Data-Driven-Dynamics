@@ -51,5 +51,7 @@ This study group was organized by Kevin Slote and Lawan Wijayasooriya at Georgia
 * [Kevin Slote Teaching Page :link:](https://sites.google.com/view/kevin-slote)
 
 * [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40kslote1)](https://twitter.com/kslote1)
+  
+* [Biological and Engineering Networks Lab](https://math.gsu.edu/ibelykh/belykh_lab.html)
 
 * [Lawan Wijayasooriya](https://github.com/LawanWijaya)
