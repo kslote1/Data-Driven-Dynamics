@@ -6,12 +6,12 @@ Also, join our discord server for study tips and meeting times.
 
 ## Materials and Lectures
 
-[lectures](https://www.databookuw.com/)
+- [lectures](https://www.databookuw.com/)
 
 Here is a link with already written python code for every sections. 
 This code can be copy pasted into colab, but if you are contributing a session make sure you understand what the code is doing and be able to explain the mathematics.
 
-[Python Code for the book](https://github.com/dynamicslab/databook_python/)
+- [Python Code for the book](https://github.com/dynamicslab/databook_python/)
 
 ## Contribution Guide
 
